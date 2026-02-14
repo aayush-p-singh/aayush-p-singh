@@ -12,6 +12,14 @@
 - **Interests:** AI, Data Science
 - **Tools:** Git, GitHub, VS Code
 
+- ## 🚀 Featured Project
+### Crime Data Analysis & Risk Prediction
+- Real-world NCRB data cleaning & integration
+- Exploratory Data Analysis (EDA)
+- Machine Learning (Decision Tree)
+- Interactive state-wise risk prediction
+
+
 ## 🌱 Currently Working On
 - Strengthening OOP concepts using C++
 - Practicing problem-solving in C & Python
