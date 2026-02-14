@@ -6,11 +6,14 @@
 🤖 Interested in AI & Data Science  
 🚀 Focused on building strong fundamentals and real-world projects
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
+
 - **Languages:** C, Python, C++
-- **Concepts:** Data Structures & Basics, OOP (in progress)
-- **Interests:** AI, Data Science
-- **Tools:** Git, GitHub, VS Code
+- **Data Science:** Pandas, Matplotlib, Scikit-learn
+- **Skills:** Data Cleaning & Preprocessing, Exploratory Data Analysis (EDA), Feature Engineering, Machine Learning (Decision Tree)
+- **Tools:** Git, GitHub, VS Code, Jupyter Notebook, Tabula
+- **Interests:** AI, Data Science, Machine Learning
+
 
 - ## 🚀 Featured Project
 ### Crime Data Analysis & Risk Prediction
@@ -23,13 +26,8 @@
 ## 🌱 Currently Working On
 - Strengthening OOP concepts using C++
 - Practicing problem-solving in C & Python
-- Building small but meaningful projects
+- Building Data Science and Machine Learning projects
 
-## 📌 Featured Projects
-- 🧮 **C Programs Collection** – Core C concepts and practice programs  
-- 🐍 **Python Practice Projects** – Logic building and scripting basics  
-
-(More projects coming soon 🚀)
 
 ## 🔗 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/aayush-pratap-singh-38a429375/
