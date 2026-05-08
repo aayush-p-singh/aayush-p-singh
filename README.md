@@ -1,49 +1,72 @@
-## Hi 👋, I'm Aayush
+# Aayush Pratap Singh
 
-🎓 B.Tech CSE student  
-💻 Strong in C & Python  
-📘 Currently learning Object-Oriented Programming with C++  
-🤖 Interested in AI & Data Science  
-🚀 Focused on building strong fundamentals and real-world projects
+Undergraduate student in Computer Science (B.Tech CSE) with a growing focus on Data Science and Machine Learning. Interested in building practical, data-driven solutions using real-world datasets.
 
-## 🛠 Tech Stack
+---
 
-- **Languages:** C, Python, C++
-- **Data Science:** Pandas, Matplotlib, Scikit-learn
-- **Skills:** Data Cleaning & Preprocessing, Exploratory Data Analysis (EDA), Feature Engineering, Machine Learning (Decision Tree)
-- **Tools:** Git, GitHub, VS Code, Jupyter Notebook, Tabula
-- **Interests:** AI, Data Science, Machine Learning
+## About
+- Strong foundation in C and Python  
+- Currently learning Object-Oriented Programming in C++  
+- Interested in Machine Learning, Data Science, and AI  
+- Focused on building structured, real-world projects  
 
+---
 
-- ## 🚀 Featured Project
-### Crime Data Analysis & Risk Prediction
-- Real-world NCRB data cleaning & integration
-- Exploratory Data Analysis (EDA)
-- Machine Learning (Decision Tree)
-- Interactive state-wise risk prediction
+## Tech Stack
 
+**Languages**  
+C, Python, C++
 
-## 🌱 Currently Working On
-- Strengthening OOP concepts using C++
-- Practicing problem-solving in C & Python
-- Building Data Science and Machine Learning projects
+**Data Science & ML**  
+Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
+**Core Skills**  
+Data Cleaning & Preprocessing  
+Exploratory Data Analysis (EDA)  
+Feature Engineering  
+Machine Learning (Classification)
 
-## 🔗 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/aayush-pratap-singh-38a429375/
-- Email: aayushpratapsingh1702@gmail.com
+**Tools**  
+Git, GitHub, VS Code, Jupyter Notebook, Tabula
 
-<!--
-**aayush-p-singh/aayush-p-singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Crime Risk Classification using Machine Learning
+End-to-end machine learning project using NCRB data to classify crime risk levels across Indian states.
+
+- Population-normalized feature engineering  
+- Models: Random Forest, SVM, Logistic Regression  
+- Achieved ~77.8% accuracy  
+- Includes correlation analysis and confusion matrix evaluation  
+
+👉 Repository: *(add your repo link here)*
+
+---
+
+### Crime Data Analysis
+Exploratory data analysis of crime trends across Indian states using NCRB data.
+
+- Data cleaning and integration from multiple sources  
+- State-wise trend analysis  
+- Visualization-driven insights  
+
+👉 Repository: https://github.com/aayush-p-singh/crime-risk-classification-ml
+
+---
+
+## Current Focus
+- Strengthening problem-solving in C and Python  
+- Improving understanding of OOP in C++  
+- Building machine learning projects with real datasets  
+
+---
+
+## Contact
+
+**LinkedIn**  
+https://www.linkedin.com/in/aayush-pratap-singh-38a429375/
+
+**Email**  
+aayushpratapsingh1702@gmail.com
