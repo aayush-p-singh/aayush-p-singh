@@ -41,7 +41,7 @@ End-to-end machine learning project using NCRB data to classify crime risk level
 - Achieved ~77.8% accuracy  
 - Includes correlation analysis and confusion matrix evaluation  
 
-👉 Repository: *(add your repo link here)*
+👉 Repository: https://github.com/aayush-p-singh/crime-risk-classification-ml
 
 ---
 
